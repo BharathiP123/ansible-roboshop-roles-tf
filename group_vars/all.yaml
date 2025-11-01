@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb- {{ env }}.bpotla.com
+MONGODB_HOST: mongodb-{{ env }}.bpotla.com
 REDIS_HOST:  redis-{{ env }}.bpotla.com
 CATALOGUE_HOST: catalogue-{{ env }}.bpotla.com
 CART_HOST: cart.daws86s.fun
