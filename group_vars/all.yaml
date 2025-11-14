@@ -1,6 +1,6 @@
 MONGODB_HOST: mongodb-{{ env }}.bpotla.com
 REDIS_HOST:  redis-{{ env }}.bpotla.com
-CATALOGUE_HOST: catalogue-backend-alb-{{ env }}.bpotla.com
+CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.bpotla.com
 CART_HOST: cart.backend-alb-{{ env }}.bpotla.com
 USER_HOST: user.backend-alb-{{ env }}.bpotla.com
 RABBITMQ_HOST: rabbitmq-{{ env }}.bpotla.com
